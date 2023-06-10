@@ -2,7 +2,7 @@
 <idea-plugin>
     <id>com.github.peppy.ppyjetbrainstheme</id>
     <name>ppy-jetbrains-theme Template</name>
-    <vendor>peppy</vendor>
+    <vendor>Dean Herbert</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 

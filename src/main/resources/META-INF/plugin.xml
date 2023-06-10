@@ -1,18 +1,16 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.peppy.ppyjetbrainstheme</id>
-    <name>ppy-jetbrains-theme Template</name>
+    <name>ppy colours</name>
     <vendor>Dean Herbert</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
-    <resource-bundle>messages.MyBundle</resource-bundle>
-
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.peppy.ppyjetbrainstheme.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <!-- Add your extensions here -->
+        <themeProvider id="969F6B13-B46D-4133-94DA-A79F5873AA64" path="/ppyRiderDark.theme.json"/>
+        <themeProvider id="3626405A-5AA5-4F90-906B-A93E948A7EFD" path="/ppyRiderLight.theme.json"/>
     </extensions>
 
-    <applicationListeners>
-        <listener class="com.github.peppy.ppyjetbrainstheme.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
+    <version>0.0.1</version>
 </idea-plugin>

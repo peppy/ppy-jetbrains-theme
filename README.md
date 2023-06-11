@@ -30,8 +30,6 @@ I also use it in Datagrip though.
 
 I'm open to feedback and fixes.
 
-**NOTE: some elements of this theme are a bit broken due to having to change the "parent" skin to make a plugin work. i'll continue to work on it so if you do install this plugin manually, make sure to track new releases.**
-
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
 

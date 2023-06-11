@@ -10,6 +10,14 @@ Uses Jetbrains Dark Purple for theme level colours. The real magic is in the syn
 
 ---
 
+## Dark
+
+[![screenshot-dark.png](screenshot-dark.png)](screenshot-dark.png)
+
+## Light
+
+[![screenshot-light.png](screenshot-light.png)](screenshot-light.png)
+
 As this is a personal colour scheme, I've focused on applying colour to pieces of the IDE I use.
 
 There is a focus on:

@@ -1,11 +1,10 @@
-<scheme name="ppy Rider Light" version="142" parent_scheme="Darcula">
+<scheme name="ppy Light" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-10T11:55:47</property>
+    <property name="created">2023-06-11T14:44:57</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.1.2.0.0</property>
-    <property name="modified">2023-06-10T11:56:07</property>
-    <property name="originalScheme">ppy Rider Light</property>
+    <property name="modified">2023-06-11T14:45:02</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
@@ -13,7 +12,8 @@
   <colors>
     <option name="CARET_COLOR" value="e07fde" />
     <option name="CARET_ROW_COLOR" value="f1f1f1" />
-    <option name="DOCUMENTATION_COLOR" value="c5cbd2" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="f4eadb" />
+    <option name="DOCUMENTATION_COLOR" value="f9f9f9" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="22222e" />
     <option name="INDENT_GUIDE" value="333344" />
@@ -21,7 +21,6 @@
     <option name="LINE_NUMBERS_COLOR" value="8d8f9a" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="574356" />
     <option name="LOOKUP_COLOR" value="eaeaea" />
-    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="30492e" />
     <option name="PRESENTATION_ASSISTANT_HINT_BACKGROUND" value="8e70be" />
     <option name="PRESENTATION_ASSISTANT_HINT_FOREGROUND" value="21212c" />
@@ -30,7 +29,6 @@
     <option name="SELECTED_TEARLINE_COLOR" value="2c2c3c" />
     <option name="SELECTION_BACKGROUND" value="cccccc" />
     <option name="SEPARATOR_ABOVE_COLOR" value="2c2c3b" />
-    <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="252526" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="252526" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="494a4f" />
@@ -57,6 +55,16 @@
         <option name="EFFECT_COLOR" value="64646e" />
       </value>
     </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="6a6a6a" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="6a6a6a" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="939aa6" />
@@ -71,7 +79,6 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="3b7b9b" />
-        <option name="BACKGROUND" value="d4ecff" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -171,10 +178,14 @@
         <option name="FOREGROUND" value="e5bc66" />
       </value>
     </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="BACKGROUND" value="ccdfdf" />
+      </value>
+    </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="665002" />
         <option name="EFFECT_COLOR" value="c3c3c3" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -183,6 +194,11 @@
       <value>
         <option name="BACKGROUND" value="503d41" />
         <option name="ERROR_STRIPE_COLOR" value="714357" />
+      </value>
+    </option>
+    <option name="DUPLICATE_FROM_SERVER">
+      <value>
+        <option name="BACKGROUND" value="e7cc91" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
@@ -203,13 +219,19 @@
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
-        <option name="BACKGROUND" value="cccccc" />
         <option name="EFFECT_COLOR" value="287bde" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
+        <option name="EFFECT_COLOR" value="287bde" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
@@ -257,6 +279,12 @@
         <option name="BACKGROUND" value="e2ffe2" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="787878" />
+        <option name="BACKGROUND" value="c4c4c4" />
+      </value>
+    </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -264,6 +292,24 @@
     </option>
     <option name="KOTLIN_LABEL">
       <value />
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="3b7b9b" />
+        <option name="BACKGROUND" value="d4ecff" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="3b7b9b" />
+        <option name="BACKGROUND" value="d4ecff" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="3b7b9b" />
+        <option name="BACKGROUND" value="d4ecff" />
+      </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
@@ -277,7 +323,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER" baseAttributes="ReSharper.CSHARP_METHOD_IDENTIFIER" />
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="269cef" />
@@ -310,9 +355,14 @@
         <option name="FOREGROUND" value="e5e5e5" />
       </value>
     </option>
+    <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
+      <value>
+        <option name="BACKGROUND" value="b8dfdf" />
+      </value>
+    </option>
     <option name="ReSharper.PREPROCESSOR_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="12061d" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="d080fb" />
       </value>
     </option>
@@ -346,7 +396,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffe99b" />
-        <option name="ERROR_STRIPE_COLOR" value="faaa36" />
+        <option name="ERROR_STRIPE_COLOR" value="ffe99b" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -365,7 +415,6 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ffecd0" />
         <option name="EFFECT_COLOR" value="eda726" />
         <option name="ERROR_STRIPE_COLOR" value="eda726" />
         <option name="EFFECT_TYPE" value="2" />
@@ -375,6 +424,12 @@
       <value>
         <option name="BACKGROUND" value="d9bcd9" />
         <option name="ERROR_STRIPE_COLOR" value="b56277" />
+      </value>
+    </option>
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="f5858c" />
+        <option name="ERROR_STRIPE_COLOR" value="8d4457" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">

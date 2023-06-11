@@ -1,9 +1,9 @@
 {
-  "name": "ppy Rider Dark",
+  "name": "ppy Dark",
   "dark": true,
   "author": "Dean Herbert",
 
-  "editorScheme": "/colorSchemes/ppyRiderDark.xml",
+  "editorScheme": "/colorSchemes/ppy Dark.xml",
 
   "ui": {
     "*": {

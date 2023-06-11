@@ -1,11 +1,10 @@
-<scheme name="ppy Rider Dark" version="142" parent_scheme="Darcula">
+<scheme name="ppy Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-10T11:58:07</property>
+    <property name="created">2023-06-11T14:45:19</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.1.2.0.0</property>
-    <property name="modified">2023-06-10T11:58:12</property>
-    <property name="originalScheme">ppy Rider Dark</property>
+    <property name="modified">2023-06-11T14:45:26</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
@@ -18,7 +17,6 @@
     <option name="INDENT_GUIDE" value="333344" />
     <option name="LINE_NUMBERS_COLOR" value="495162" />
     <option name="LOOKUP_COLOR" value="b1318" />
-    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="30492e" />
     <option name="PRESENTATION_ASSISTANT_HINT_BACKGROUND" value="8e70be" />
     <option name="PRESENTATION_ASSISTANT_HINT_FOREGROUND" value="21212c" />
@@ -27,7 +25,6 @@
     <option name="SELECTED_TEARLINE_COLOR" value="2c2c3c" />
     <option name="SELECTION_BACKGROUND" value="40375e" />
     <option name="SEPARATOR_ABOVE_COLOR" value="2c2c3b" />
-    <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="252526" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="252526" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="494a4f" />
@@ -65,6 +62,9 @@
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
+    <option name="DEFAULT_COMMA">
+      <value />
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="d3dde4" />
@@ -76,9 +76,20 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="a3a3a3" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="8994a7" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -89,6 +100,11 @@
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -266,7 +282,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER" baseAttributes="ReSharper.CSHARP_METHOD_IDENTIFIER" />
+    <option name="ReSharper.CSHARP_ACCESSOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="269cef" />
@@ -298,6 +318,9 @@
       <value>
         <option name="FOREGROUND" value="e5e5e5" />
       </value>
+    </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER">
+      <value />
     </option>
     <option name="ReSharper.PREPROCESSOR_KEYWORD">
       <value>

@@ -8,8 +8,8 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="969F6B13-B46D-4133-94DA-A79F5873AA64" path="/ppyRiderDark.theme.json"/>
-        <themeProvider id="3626405A-5AA5-4F90-906B-A93E948A7EFD" path="/ppyRiderLight.theme.json"/>
+        <themeProvider id="969F6B13-B46D-4133-94DA-A79F5873AA64" path="/ppy Light.theme.json"/>
+        <themeProvider id="3626405A-5AA5-4F90-906B-A93E948A7EFD" path="/ppy Dark.theme.json"/>
     </extensions>
 
     <version>0.0.1</version>

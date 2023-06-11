@@ -1,1 +1,1 @@
-rootProject.name = "ppy-jetbrains-theme"
+rootProject.name = "ppy-theme"

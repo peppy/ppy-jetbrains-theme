@@ -1,17 +1,17 @@
 <scheme name="ppy Light" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-12T00:33:08</property>
+    <property name="created">2023-06-18T13:03:42</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.1.2.0.0</property>
-    <property name="modified">2023-06-12T00:33:11</property>
+    <property name="modified">2023-06-18T13:03:46</property>
     <property name="originalScheme">_@user_ppy Light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.06" />
   <colors>
-    <option name="CARET_COLOR" value="e07fde" />
+    <option name="CARET_COLOR" value="6a6a6a" />
     <option name="CARET_ROW_COLOR" value="f1f1f1" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f4eadb" />
     <option name="DOCUMENTATION_COLOR" value="f9f9f9" />
@@ -26,9 +26,9 @@
     <option name="PRESENTATION_ASSISTANT_HINT_BACKGROUND" value="8e70be" />
     <option name="PRESENTATION_ASSISTANT_HINT_FOREGROUND" value="21212c" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
-    <option name="SELECTED_INDENT_GUIDE" value="455989" />
+    <option name="SELECTED_INDENT_GUIDE" value="d5d5db" />
     <option name="SELECTED_TEARLINE_COLOR" value="2c2c3c" />
-    <option name="SELECTION_BACKGROUND" value="cccccc" />
+    <option name="SELECTION_BACKGROUND" value="ffe2fe" />
     <option name="SEPARATOR_ABOVE_COLOR" value="2c2c3b" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="252526" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="252526" />

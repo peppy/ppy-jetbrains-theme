@@ -17,7 +17,7 @@
     <option name="DOCUMENTATION_COLOR" value="f9f9f9" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="22222e" />
-    <option name="INDENT_GUIDE" value="333344" />
+    <option name="INDENT_GUIDE" value="d5d5db" />
     <option name="INFORMATION_HINT" value="c5cbd2" />
     <option name="LINE_NUMBERS_COLOR" value="8d8f9a" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="574356" />
@@ -46,8 +46,14 @@
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="2c2c3b" />
+        <option name="FOREGROUND" value="595959" />
+        <option name="BACKGROUND" value="e3e3e3" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="595959" />
+        <option name="BACKGROUND" value="dedede" />
       </value>
     </option>
     <option name="CODE_LENS_BORDER_COLOR">

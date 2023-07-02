@@ -1,10 +1,10 @@
 <scheme name="ppy Light" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-18T13:03:42</property>
+    <property name="created">2023-07-03T01:10:57</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.1.2.0.0</property>
-    <property name="modified">2023-06-18T13:03:46</property>
+    <property name="modified">2023-07-03T01:11:00</property>
     <property name="originalScheme">_@user_ppy Light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -28,7 +28,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="d5d5db" />
     <option name="SELECTED_TEARLINE_COLOR" value="2c2c3c" />
-    <option name="SELECTION_BACKGROUND" value="ffe2fe" />
+    <option name="SELECTION_BACKGROUND" value="e5deff" />
     <option name="SEPARATOR_ABOVE_COLOR" value="2c2c3b" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="252526" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="252526" />
@@ -54,6 +54,12 @@
       <value>
         <option name="FOREGROUND" value="595959" />
         <option name="BACKGROUND" value="dedede" />
+      </value>
+    </option>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffdddd" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CODE_LENS_BORDER_COLOR">
@@ -177,7 +183,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="505069" />
+        <option name="FOREGROUND" value="bdbdca" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -227,6 +233,21 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="87d1ff" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="87d1ff" />
+      </value>
+    </option>
+    <option name="EXECUTIONPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="cfe3ff" />
+      </value>
+    </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ed88b2" />
@@ -253,8 +274,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fae1f7" />
-        <option name="ERROR_STRIPE_COLOR" value="ffdcfd" />
+        <option name="BACKGROUND" value="e5e8ee" />
+        <option name="ERROR_STRIPE_COLOR" value="e5e8ee" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
@@ -301,6 +322,11 @@
       <value>
         <option name="FOREGROUND" value="787878" />
         <option name="BACKGROUND" value="c4c4c4" />
+      </value>
+    </option>
+    <option name="INLINE_STACK_FRAMES">
+      <value>
+        <option name="BACKGROUND" value="87d1ff" />
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
@@ -380,7 +406,7 @@
     </option>
     <option name="ReSharper.PREPROCESSOR_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="3f3f3f" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="d080fb" />
       </value>
     </option>
@@ -420,6 +446,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f8a37f" />
+        <option name="BACKGROUND" value="fcf3e7" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="ee9d7c" />
         <option name="EFFECT_TYPE" value="1" />

@@ -1,10 +1,11 @@
 <scheme name="ppy Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-11T14:45:19</property>
+    <property name="created">2023-07-17T15:29:22</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2023.1.2.0.0</property>
-    <property name="modified">2023-06-11T14:45:26</property>
+    <property name="ideVersion">2023.2.0.0</property>
+    <property name="modified">2023-07-17T15:29:24</property>
+    <property name="originalScheme">_@user_ppy Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
@@ -262,6 +263,11 @@
         <option name="BACKGROUND" value="261d1f" />
       </value>
     </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="BACKGROUND" value="282c36" />
+      </value>
+    </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -269,6 +275,24 @@
     </option>
     <option name="KOTLIN_LABEL">
       <value />
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="4c9eca" />
+        <option name="BACKGROUND" value="1c3d4b" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="4c9eca" />
+        <option name="BACKGROUND" value="1c3d4b" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="4c9eca" />
+        <option name="BACKGROUND" value="1c3d4b" />
+      </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>

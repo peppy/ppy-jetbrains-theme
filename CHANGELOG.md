@@ -3,5 +3,10 @@
 # ppy-jetbrains-theme Changelog
 
 ## [Unreleased]
+
 ### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+- Add annotation / diff views colours for light theme
+- Add markdown header specific colouring for dark theme
+
+### Changed
+- Tweak markdown specific colouring for light theme

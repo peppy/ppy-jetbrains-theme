@@ -1,10 +1,10 @@
 <scheme name="ppy Light" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-07-17T15:12:43</property>
+    <property name="created">2023-07-17T15:29:16</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-07-17T15:12:53</property>
+    <property name="modified">2023-07-17T15:29:18</property>
     <property name="originalScheme">_@user_ppy Light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -346,7 +346,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="e2ffe2" />
+        <option name="BACKGROUND" value="eef2ff" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -370,19 +370,19 @@
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_1">
       <value>
-        <option name="FOREGROUND" value="3b7b9b" />
+        <option name="FOREGROUND" value="3b739b" />
         <option name="BACKGROUND" value="d4ecff" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_2">
       <value>
-        <option name="FOREGROUND" value="3b7b9b" />
+        <option name="FOREGROUND" value="3b739b" />
         <option name="BACKGROUND" value="d4ecff" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_3">
       <value>
-        <option name="FOREGROUND" value="3b7b9b" />
+        <option name="FOREGROUND" value="3b739b" />
         <option name="BACKGROUND" value="d4ecff" />
       </value>
     </option>

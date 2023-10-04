@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+## [0.0.6] - 2023-10-04
+
 ### Changed
 - Fixed theme not working with new rider EAP releases
 
@@ -37,7 +39,8 @@
 ### Added
 - Initial release!
 
-[Unreleased]: https://github.com/peppy/ppy-jetbrains-theme/compare/v0.0.5...HEAD
+[Unreleased]: https://github.com/peppy/ppy-jetbrains-theme/compare/v0.0.6...HEAD
+[0.0.6]: https://github.com/peppy/ppy-jetbrains-theme/compare/v0.0.5...v0.0.6
 [0.0.5]: https://github.com/peppy/ppy-jetbrains-theme/commits/v0.0.5
 [0.0.4]: https://github.com/peppy/ppy-jetbrains-theme/commits/v0.0.4
 [0.0.3]: https://github.com/peppy/ppy-jetbrains-theme/commits/v0.0.3
